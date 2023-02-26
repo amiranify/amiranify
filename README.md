@@ -48,10 +48,12 @@ Here are some ideas to get you started:
 <h3 align="center"> Мои сертификаты ⚡ </h3>
 <table>
   <tr>
+   <td><img src="https://user-images.githubusercontent.com/110248739/221429910-85864784-7da5-465f-ba09-050a88222ff9.jpg"></td>
    </td>
- 
+ <tr>
+   <td><img src="https://user-images.githubusercontent.com/110248739/221430282-ad28e715-78cb-4414-85f1-91f0e38b8c3e.jpg"></td>
+   </td>
  
 </table>
 
-- [Сертификат о прохождении курса "Java-разработка для начинающих"](https://github.com/amiranify/amiranify/files/10834350/certificate.pdf)
-- [Сертификат о прохождении курса "Основы разработки на Java"](https://github.com/amiranify/amiranify/files/10834353/certificate.2.pdf)
+
