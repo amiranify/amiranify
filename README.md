@@ -47,5 +47,5 @@ Here are some ideas to get you started:
 - Свойства хорошего кода и принцип SOLID
 <h3 align="center"> Мои сертификаты ⚡ </h3>
 
-- [certificate.pdf](https://github.com/amiranify/amiranify/files/10834350/certificate.pdf)
-- [certificate (2).pdf](https://github.com/amiranify/amiranify/files/10834353/certificate.2.pdf)
+- [Сертификат о прохождении курса "Java-разработка для начинающих"](https://github.com/amiranify/amiranify/files/10834350/certificate.pdf)
+- [Сертификат о прохождении курса "Основы разработки на Java"](https://github.com/amiranify/amiranify/files/10834353/certificate.2.pdf)
