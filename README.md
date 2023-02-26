@@ -47,3 +47,5 @@ Here are some ideas to get you started:
 - Поведенческие шаблоны. Command, Iterator, Observer, Chain of Responsibility
 - Свойства хорошего кода и принцип SOLID
 <h3 align="center"> Мои сертификаты ⚡ </h3>
+[certificate.pdf](https://github.com/amiranify/amiranify/files/10834292/certificate.pdf)
+[certificate (2).pdf](https://github.com/amiranify/amiranify/files/10834296/certificate.2.pdf)
