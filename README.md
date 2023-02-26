@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 
 - 🌱 В настоящее время я изучаю JAVA
 - 🔭 Открыт для удаленной или офисной работы. 
-<h4> Stack: Java, Intellij IDEA, Spring MVC,
- Spring Framework, Maven / Gradle, SOLID,
+<h4> Stack: Java, Intellij IDEA, Maven / Gradle, SOLID,
  Java Core, SQL, CSS, HTML, GitHub, 
  Jira, Postman,  </h4>
  
@@ -47,4 +46,6 @@ Here are some ideas to get you started:
 - Поведенческие шаблоны. Command, Iterator, Observer, Chain of Responsibility
 - Свойства хорошего кода и принцип SOLID
 <h3 align="center"> Мои сертификаты ⚡ </h3>
-![image](https://netology.ru/backend/api/user/programs/31696/pdf_certificate)
+
+- [certificate.pdf](https://github.com/amiranify/amiranify/files/10834350/certificate.pdf)
+- [certificate (2).pdf](https://github.com/amiranify/amiranify/files/10834353/certificate.2.pdf)
