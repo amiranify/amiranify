@@ -1,4 +1,7 @@
-### Привет, меня зовут Амиран 👋
+# Привет, меня зовут Амиран <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
+<h1 align="">Hi there, My name is <a href="https://github.com/amiranify" target="_blank">Amiran</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <!--
 **amiranify/amiranify** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,14 +17,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Увлечен разработкой на Java, люблю кодирование.
+Увлечен разработкой на Java.
+*Passionate about java development, love coding.*
 
-- 🌱 В настоящее время я изучаю JAVA
-- 🔭 Открыт для удаленной или офисной работы. 
+- 🌱 В настоящее время я изучаю JAVA. I’m currently learning JAVA
+- 🔭 Открыт для удаленной или офисной работы.Open to work, remote or office work. 
+- 📫 How to reach me. Как со мной связаться : e-mail: amiranify@mail.ru Telegram: https://t.me/amiranify
 <h4> Stack: Java, Intellij IDEA, Maven / Gradle, SOLID,
  Java Core, SQL, CSS, HTML, GitHub, 
  Jira, Postman,  </h4>
- 
+********************************************************************************
+
  ##  У меня был опыт работы с технологиями и фреймворками
 - [Generics в коллекциях и методах](https://github.com/amiranify/GenericMagicBox)
 - [Коллекции List](https://github.com/amiranify/CollectionList)
