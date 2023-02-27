@@ -51,6 +51,12 @@ Here are some ideas to get you started:
 - Структурные шаблоны. Proxy, Decorator, [Adapter](https://github.com/amiranify/Adapter-)
 - Поведенческие шаблоны. Command, [Iterator](https://github.com/amiranify/Solid), Observer, Chain of Responsibility
 - [Свойства хорошего кода и принцип SOLID](https://github.com/amiranify/Solid)
+## Мои курсовые проекты 
+- [Конвертер в текстовую графику](https://github.com/amiranify/java-diplom-converter)
+- [Менеджер задач](https://github.com/amiranify/pcs-jpat-diplom)
+## Дипломная работа 
+- [Поисковая система](https://github.com/amiranify/pcs-final-diplom)
+
 <h3 align="center"> Мои сертификаты ⚡ </h3>
 <table>
   <tr>
