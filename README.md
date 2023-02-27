@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - [Коллекции HashSet и HashMap](https://github.com/amiranify/CollectionHashSet_andHashMap)
 - [Коллекции TreeMap и TreeSet](https://github.com/amiranify/CollectionTreeMapTreeSet)
 - Основы Java Core
-- Git - система контроля версий (GitHub, Gitlab)
+- Git - система контроля версий (GitHub, Gitlab)[«История работы и ветки»](https://github.com/amiranify/SalesManager), [«Командная работа»](https://github.com/amiranify/Other)
 - Алгоритмы и структуры данных
 - [Лямбда-выражения и функциональные интерфейсы](https://github.com/amiranify/CollectionTreeMapTreeSet/tree/lambda)
 - [Stream API. Потоки, повторные вызовы](https://github.com/amiranify/StreamAPI)
