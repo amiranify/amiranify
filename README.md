@@ -23,28 +23,28 @@ Here are some ideas to get you started:
  Jira, Postman,  </h4>
  
  ##  У меня был опыт работы с технологиями и фреймворками
-- Generics в коллекциях и методах
-- Коллекции List
-- Коллекции Queue
-- Коллекции HashSet и HashMap
-- Коллекции TreeMap и TreeSet
+- [Generics в коллекциях и методах](https://github.com/amiranify/GenericMagicBox)
+- [Коллекции List](https://github.com/amiranify/CollectionList)
+- [Коллекции Queue](https://github.com/amiranify/CollectionQueue)
+- [Коллекции HashSet и HashMap](https://github.com/amiranify/CollectionHashSet_andHashMap)
+- [Коллекции TreeMap и TreeSet](https://github.com/amiranify/CollectionTreeMapTreeSet)
 - Основы Java Core
 - Git - система контроля версий (GitHub, Gitlab)
 - Алгоритмы и структуры данных
-- Лямбда-выражения и функциональные интерфейсы
-- Stream API. Потоки, повторные вызовы
-- Потоки ввода-вывода. Работа с файлами. Сериализация
-- Сборка проектов. Maven и Gradle
-- Работа с файлами CSV, XML, JSON
-- Тестирование кода и Unit-тесты
-- Mockito. Мокирование вызовов, Mock
-- Основы работы с сетью. Модель OSI, TCP, UDP
-- Протокол HTTP. Вызов удаленных серверов
-- JVM. Организация памяти, сборщики мусора, VisualVM
-- Шаблоны проектирования:Порождающие шаблоны. Builder, Singleton, Factory Method, Abstract Factory, Prototype
-- Структурные шаблоны. Proxy, Decorator, Adapter
-- Поведенческие шаблоны. Command, Iterator, Observer, Chain of Responsibility
-- Свойства хорошего кода и принцип SOLID
+- [Лямбда-выражения и функциональные интерфейсы](https://github.com/amiranify/CollectionTreeMapTreeSet/tree/lambda)
+- [Stream API. Потоки, повторные вызовы](https://github.com/amiranify/StreamAPI)
+- [Потоки ввода-вывода. Работа с файлами. Сериализация](https://github.com/amiranify/Serialization/tree/serial)
+- Сборка проектов. [Maven](https://github.com/amiranify/Maven) и [Gradle](https://github.com/amiranify/Gradle)
+- [Работа с файлами CSV, XML, JSON](https://github.com/amiranify/Serialization/tree/json)
+- [Тестирование кода и Unit-тесты](https://github.com/amiranify/testHashSetHashMap/tree/main)
+- [Mockito. Мокирование вызовов, Mock](https://github.com/amiranify/geo-service)
+- [Основы работы с сетью. Модель OSI, TCP, UDP](https://github.com/amiranify/OSI-TCP-UDP)
+- [Протокол HTTP. Вызов удаленных серверов](https://github.com/amiranify/HTTP_protocol)
+- [JVM. Организация памяти, сборщики мусора, VisualVM](https://github.com/amiranify/JVM.-VisualVM)
+- Шаблоны проектирования:Порождающие шаблоны. [Builder](https://github.com/amiranify/BuilderPattern), [Singleton](https://github.com/amiranify/Singleton), Factory Method, Abstract Factory, Prototype
+- Структурные шаблоны. Proxy, Decorator, [Adapter](https://github.com/amiranify/Adapter-)
+- Поведенческие шаблоны. Command, [Iterator](https://github.com/amiranify/Solid), Observer, Chain of Responsibility
+- [Свойства хорошего кода и принцип SOLID](https://github.com/amiranify/Solid)
 <h3 align="center"> Мои сертификаты ⚡ </h3>
 <table>
   <tr>
