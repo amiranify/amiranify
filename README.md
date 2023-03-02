@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 Увлечен разработкой на Java.
 *Passionate about java development, love coding.*
 
-- 🌱 *I’m currently learning JAVA.* В настоящее время я изучаю JAVA.
+- 🌱 *I’m currently learning JAVA.* В настоящее время я изучаю JAVA и основы [Spring](https://github.com/amiranify/SpringBasics)
 - 🔭 *Open to work, remote or office work.* Открыт для удаленной или офисной работы.
 - 📫 *How to reach me.* Как со мной связаться : e-mail: amiranify@mail.ru Telegram: https://t.me/amiranify
 <h4> Stack: Java, Intellij IDEA, Maven / Gradle, SOLID,
