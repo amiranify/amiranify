@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - [Коллекции Queue](https://github.com/amiranify/CollectionQueue)
 - [Коллекции HashSet и HashMap](https://github.com/amiranify/CollectionHashSet_andHashMap)
 - [Коллекции TreeMap и TreeSet](https://github.com/amiranify/CollectionTreeMapTreeSet)
-- С **Git** и **GitHub** система контроля версий
+- С **Git** и **GitHub** 
 - [«История работы и ветки»](https://github.com/amiranify/SalesManager), 
 - [«Командная работа»](https://github.com/amiranify/Other)
 - Основы Java Core
