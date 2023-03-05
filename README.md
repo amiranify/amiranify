@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 Увлечен разработкой на Java.
 *Passionate about java development, love coding.*
 
-- 🌱 *I’m currently learning JAVA.* В настоящее время я изучаю JAVA и основы [Spring](https://github.com/amiranify/SpringBasics)
+- 🌱 *I’m currently learning JAVA.* В настоящее время я изучаю JAVA и основы Spring
 - 🔭 *Open to work, remote or office work.* Открыт для удаленной или офисной работы.
 - 📫 *How to reach me.* Как со мной связаться : e-mail: amiranify@mail.ru Telegram: https://t.me/amiranify
 <h4> Stack: Java, Intellij IDEA, Maven / Gradle, SOLID,
@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 ********************************************************************************
 
  ##  У меня был опыт работы с технологиями и фреймворками
+- [Основы Spring](https://github.com/amiranify/SpringBasics)
+- [CRUD-приложение](https://github.com/amiranify/spring-boot-crud)
 - [Generics в коллекциях и методах](https://github.com/amiranify/GenericMagicBox)
 - [Коллекции List](https://github.com/amiranify/CollectionList)
 - [Коллекции Queue](https://github.com/amiranify/CollectionQueue)
