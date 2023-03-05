@@ -29,16 +29,18 @@ Here are some ideas to get you started:
 ********************************************************************************
 
  ##  У меня был опыт работы с технологиями и фреймворками
-- [Основы Spring](https://github.com/amiranify/SpringBasics)
+- **Spring** в задании [Основы Spring](https://github.com/amiranify/SpringBasics)
 - [CRUD-приложение](https://github.com/amiranify/spring-boot-crud)
-- [Generics в коллекциях и методах](https://github.com/amiranify/GenericMagicBox)
-- [Коллекции List](https://github.com/amiranify/CollectionList)
+- **Generics** задание [Generics в коллекциях и методах](https://github.com/amiranify/GenericMagicBox)
+- С **коллекциями** в заданиях:
+-  [Коллекции List](https://github.com/amiranify/CollectionList)
 - [Коллекции Queue](https://github.com/amiranify/CollectionQueue)
 - [Коллекции HashSet и HashMap](https://github.com/amiranify/CollectionHashSet_andHashMap)
 - [Коллекции TreeMap и TreeSet](https://github.com/amiranify/CollectionTreeMapTreeSet)
+- С **Git** и **GitHub** система контроля версий
+- [«История работы и ветки»](https://github.com/amiranify/SalesManager), 
+- [«Командная работа»](https://github.com/amiranify/Other)
 - Основы Java Core
-- Git - система контроля версий (GitHub, Gitlab)[«История работы и ветки»](https://github.com/amiranify/SalesManager), [«Командная работа»](https://github.com/amiranify/Other)
-- Алгоритмы и структуры данных
 - [Лямбда-выражения и функциональные интерфейсы](https://github.com/amiranify/CollectionTreeMapTreeSet/tree/lambda)
 - [Stream API. Потоки, повторные вызовы](https://github.com/amiranify/StreamAPI)
 - [Потоки ввода-вывода. Работа с файлами. Сериализация](https://github.com/amiranify/Serialization/tree/serial)
@@ -49,10 +51,14 @@ Here are some ideas to get you started:
 - [Основы работы с сетью. Модель OSI, TCP, UDP](https://github.com/amiranify/OSI-TCP-UDP)
 - [Протокол HTTP. Вызов удаленных серверов](https://github.com/amiranify/HTTP_protocol)
 - [JVM. Организация памяти, сборщики мусора, VisualVM](https://github.com/amiranify/JVM.-VisualVM)
-- Шаблоны проектирования:Порождающие шаблоны. [Builder](https://github.com/amiranify/BuilderPattern), [Singleton](https://github.com/amiranify/Singleton), Factory Method, Abstract Factory, Prototype
+- С шаблонами проектирования **Pattern**:
+- Порождающие шаблоны. [Builder](https://github.com/amiranify/BuilderPattern), [Singleton](https://github.com/amiranify/Singleton), Factory Method, Abstract Factory, Prototype
 - Структурные шаблоны. Proxy, Decorator, [Adapter](https://github.com/amiranify/Adapter-)
 - Поведенческие шаблоны. Command, [Iterator](https://github.com/amiranify/Solid), Observer, Chain of Responsibility
 - [Свойства хорошего кода и принцип SOLID](https://github.com/amiranify/Solid)
+
+## Виртуальные стажировки
+[Проект по загрузке и обработке справочника городов России](https://github.com/amiranify/SberbankInternship)
 ## Мои курсовые проекты 
 - [Конвертер в текстовую графику](https://github.com/amiranify/java-diplom-converter)
 - [Менеджер задач](https://github.com/amiranify/pcs-jpat-diplom)
