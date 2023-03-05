@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 📫 *How to reach me.* Как со мной связаться : e-mail: amiranify@mail.ru Telegram: https://t.me/amiranify
 <h4> Stack: Java, Intellij IDEA, Maven / Gradle, SOLID,
  Java Core, SQL, CSS, HTML, GitHub, 
- Jira, Postman,  </h4>
+ Jira, Postman, Spring  </h4>
 ********************************************************************************
 
  ##  У меня был опыт работы с технологиями и фреймворками
