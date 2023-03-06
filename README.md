@@ -76,14 +76,15 @@ Here are some ideas to get you started:
   <tr>
    <td><img src="https://user-images.githubusercontent.com/110248739/221429910-85864784-7da5-465f-ba09-050a88222ff9.jpg"></td>
    </td>
- <tr>
+   <tr>
    <td><img src="https://user-images.githubusercontent.com/110248739/221430282-ad28e715-78cb-4414-85f1-91f0e38b8c3e.jpg"></td>
    </td>
- 
 </table>
 
+![_023109_page-0001](https://user-images.githubusercontent.com/110248739/223161579-d8892949-2a07-48b3-a77d-80528d2f86d2.jpg)
+
 # *О себе*:
-Люблю Java, увлечен разработкой, изучаю spring framework.
+Люблю Java, увлечен разработкой, изучаю Spring Framework.
 # *Контакты:*
 - Tel.: +79965095319
 - Telegram: https://t.me/amiranify
