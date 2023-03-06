@@ -33,39 +33,40 @@ Here are some ideas to get you started:
 
 ### *У меня был опыт работы с технологиями и фреймворками в проектах:*
 
- **Spring** в проектах:
--  [Основы Spring](https://github.com/amiranify/SpringBasics)
-- [CRUD-приложение](https://github.com/amiranify/spring-boot-crud)
-- **Generics** в проекте: [Generics в коллекциях и методах](https://github.com/amiranify/GenericMagicBox)
+**Generics** в проекте: 
+
+- [«Generics в коллекциях и методах»](https://github.com/amiranify/GenericMagicBox)
 
  С **коллекциями** в проектах:
 
--  [Коллекции List](https://github.com/amiranify/CollectionList)
-- [Коллекции Queue](https://github.com/amiranify/CollectionQueue)
-- [Коллекции HashSet и HashMap](https://github.com/amiranify/CollectionHashSet_andHashMap)
-- [Коллекции TreeMap и TreeSet](https://github.com/amiranify/CollectionTreeMapTreeSet)
+- [«Коллекции List»](https://github.com/amiranify/CollectionList)
+- [«Коллекции Queue»](https://github.com/amiranify/CollectionQueue)
+- [«Коллекции HashSet и HashMap»](https://github.com/amiranify/CollectionHashSet_andHashMap)
+- [«Коллекции TreeMap и TreeSet»](https://github.com/amiranify/CollectionTreeMapTreeSet)
 
 С **Git** и **GitHub**
 
-- история работы и ветки»](https://github.com/amiranify/SalesManager), 
+- [«история работы и ветки»](https://github.com/amiranify/SalesManager), 
 - [«Командная работа»](https://github.com/amiranify/Other)
-- Основы Java Core в проектах:
-- [Лямбда-выражения и функциональные интерфейсы](https://github.com/amiranify/CollectionTreeMapTreeSet/tree/lambda)
-- [Stream API. Потоки, повторные вызовы](https://github.com/amiranify/StreamAPI)
-- [Потоки ввода-вывода. Работа с файлами. Сериализация](https://github.com/amiranify/Serialization/tree/serial)
 
- Сборка проектов: 
+ Основы **Java Core** в проектах:
 
-- [Maven](https://github.com/amiranify/Maven) и [Gradle](https://github.com/amiranify/Gradle)
+- [«Лямбда-выражения и функциональные интерфейсы»](https://github.com/amiranify/CollectionTreeMapTreeSet/tree/lambda)
+- [«Stream API. Потоки, повторные вызовы»](https://github.com/amiranify/StreamAPI)
+- [«Потоки ввода-вывода. Работа с файлами. Сериализация»»](https://github.com/amiranify/Serialization/tree/serial)
 
-Работа с файлами, тестирование, работа с сетью в проектах: 
+ Сборка проектов 
 
-- [Работа с файлами CSV, XML, JSON](https://github.com/amiranify/Serialization/tree/json)
-- [Тестирование кода и Unit-тесты](https://github.com/amiranify/testHashSetHashMap/tree/main)
-- [Mockito. Мокирование вызовов, Mock](https://github.com/amiranify/geo-service)
-- [Основы работы с сетью. Модель OSI, TCP, UDP](https://github.com/amiranify/OSI-TCP-UDP)
-- [Протокол HTTP. Вызов удаленных серверов](https://github.com/amiranify/HTTP_protocol)
-- [JVM. Организация памяти, сборщики мусора, VisualVM](https://github.com/amiranify/JVM.-VisualVM)
+- [«Maven»](https://github.com/amiranify/Maven) и [«Gradle»](https://github.com/amiranify/Gradle)
+
+Работа с файлами, тестирование, работа с сетью  
+
+- [«Работа с файлами CSV, XML, JSON»](https://github.com/amiranify/Serialization/tree/json)
+- [«Тестирование кода и Unit-тесты»](https://github.com/amiranify/testHashSetHashMap/tree/main)
+- [«Mockito. Мокирование вызовов, Mock»](https://github.com/amiranify/geo-service)
+- [«Основы работы с сетью. Модель OSI, TCP, UDP»](https://github.com/amiranify/OSI-TCP-UDP)
+- [«Протокол HTTP. Вызов удаленных серверов»](https://github.com/amiranify/HTTP_protocol)
+- [«JVM. Организация памяти, сборщики мусора, VisualVM»](https://github.com/amiranify/JVM.-VisualVM)
 
  С шаблонами проектирования **Pattern** в проектах:
  
@@ -74,11 +75,15 @@ Here are some ideas to get you started:
 - Поведенческие шаблоны. Command, [Iterator](https://github.com/amiranify/Solid), Observer, Chain of Responsibility
 - [Свойства хорошего кода и принцип SOLID](https://github.com/amiranify/Solid)
 
+ **Spring** в проектах:
+- [Основы Spring»](https://github.com/amiranify/SpringBasics)
+- [CRUD-приложение»](https://github.com/amiranify/spring-boot-crud)
+
 ## Мои курсовые проекты 
-- [Конвертер в текстовую графику](https://github.com/amiranify/java-diplom-converter)
-- [Менеджер задач](https://github.com/amiranify/pcs-jpat-diplom)
+- [«Конвертер в текстовую графику»](https://github.com/amiranify/java-diplom-converter)
+- [«Менеджер задач»](https://github.com/amiranify/pcs-jpat-diplom)
 ## Дипломная работа 
-- [Поисковая система](https://github.com/amiranify/pcs-final-diplom)
+- [«Поисковая система»](https://github.com/amiranify/pcs-final-diplom)
 
 # *Курсы и тренинги:*
 
@@ -93,12 +98,13 @@ Here are some ideas to get you started:
 </table>
 
 ## *Виртуальные стажировки*
-[Проект по загрузке и обработке справочника городов России](https://github.com/amiranify/SberbankInternship)
+[«Проект по загрузке и обработке справочника городов России»](https://github.com/amiranify/SberbankInternship)
 
 ![_023109_page-0001](https://user-images.githubusercontent.com/110248739/223161579-d8892949-2a07-48b3-a77d-80528d2f86d2.jpg)
 
 # *О себе*:
 Люблю Java, увлечен разработкой, изучаю Spring Framework.
+
 # *Контакты:*
 - Tel.: +79965095319
 - Telegram: https://t.me/amiranify
