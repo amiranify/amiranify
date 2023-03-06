@@ -33,36 +33,47 @@ Here are some ideas to get you started:
 
 ### *У меня был опыт работы с технологиями и фреймворками в проектах:*
 
-- **Spring** в задании [Основы Spring](https://github.com/amiranify/SpringBasics)
+ **Spring** в проектах:
+-  [Основы Spring](https://github.com/amiranify/SpringBasics)
 - [CRUD-приложение](https://github.com/amiranify/spring-boot-crud)
-- **Generics** задание [Generics в коллекциях и методах](https://github.com/amiranify/GenericMagicBox)
-- С **коллекциями** в заданиях:
+- **Generics** в проекте: [Generics в коллекциях и методах](https://github.com/amiranify/GenericMagicBox)
+
+ С **коллекциями** в проектах:
+
 -  [Коллекции List](https://github.com/amiranify/CollectionList)
 - [Коллекции Queue](https://github.com/amiranify/CollectionQueue)
 - [Коллекции HashSet и HashMap](https://github.com/amiranify/CollectionHashSet_andHashMap)
 - [Коллекции TreeMap и TreeSet](https://github.com/amiranify/CollectionTreeMapTreeSet)
-- С **Git** и **GitHub** 
-- [«История работы и ветки»](https://github.com/amiranify/SalesManager), 
+
+С **Git** и **GitHub**
+
+- история работы и ветки»](https://github.com/amiranify/SalesManager), 
 - [«Командная работа»](https://github.com/amiranify/Other)
-- Основы Java Core
+- Основы Java Core в проектах:
 - [Лямбда-выражения и функциональные интерфейсы](https://github.com/amiranify/CollectionTreeMapTreeSet/tree/lambda)
 - [Stream API. Потоки, повторные вызовы](https://github.com/amiranify/StreamAPI)
 - [Потоки ввода-вывода. Работа с файлами. Сериализация](https://github.com/amiranify/Serialization/tree/serial)
-- Сборка проектов. [Maven](https://github.com/amiranify/Maven) и [Gradle](https://github.com/amiranify/Gradle)
+
+ Сборка проектов: 
+
+- [Maven](https://github.com/amiranify/Maven) и [Gradle](https://github.com/amiranify/Gradle)
+
+Работа с файлами, тестирование, работа с сетью в проектах: 
+
 - [Работа с файлами CSV, XML, JSON](https://github.com/amiranify/Serialization/tree/json)
 - [Тестирование кода и Unit-тесты](https://github.com/amiranify/testHashSetHashMap/tree/main)
 - [Mockito. Мокирование вызовов, Mock](https://github.com/amiranify/geo-service)
 - [Основы работы с сетью. Модель OSI, TCP, UDP](https://github.com/amiranify/OSI-TCP-UDP)
 - [Протокол HTTP. Вызов удаленных серверов](https://github.com/amiranify/HTTP_protocol)
 - [JVM. Организация памяти, сборщики мусора, VisualVM](https://github.com/amiranify/JVM.-VisualVM)
-- С шаблонами проектирования **Pattern**:
+
+ С шаблонами проектирования **Pattern** в проектах:
+ 
 - Порождающие шаблоны. [Builder](https://github.com/amiranify/BuilderPattern), [Singleton](https://github.com/amiranify/Singleton), Factory Method, Abstract Factory, Prototype
 - Структурные шаблоны. Proxy, Decorator, [Adapter](https://github.com/amiranify/Adapter-)
 - Поведенческие шаблоны. Command, [Iterator](https://github.com/amiranify/Solid), Observer, Chain of Responsibility
 - [Свойства хорошего кода и принцип SOLID](https://github.com/amiranify/Solid)
 
-## Виртуальные стажировки
-[Проект по загрузке и обработке справочника городов России](https://github.com/amiranify/SberbankInternship)
 ## Мои курсовые проекты 
 - [Конвертер в текстовую графику](https://github.com/amiranify/java-diplom-converter)
 - [Менеджер задач](https://github.com/amiranify/pcs-jpat-diplom)
@@ -80,6 +91,9 @@ Here are some ideas to get you started:
    <td><img src="https://user-images.githubusercontent.com/110248739/221430282-ad28e715-78cb-4414-85f1-91f0e38b8c3e.jpg"></td>
    </td>
 </table>
+
+## *Виртуальные стажировки*
+[Проект по загрузке и обработке справочника городов России](https://github.com/amiranify/SberbankInternship)
 
 ![_023109_page-0001](https://user-images.githubusercontent.com/110248739/223161579-d8892949-2a07-48b3-a77d-80528d2f86d2.jpg)
 
