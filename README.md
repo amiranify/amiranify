@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 *I’m currently learning JAVA.* В настоящее время я изучаю JAVA и основы Spring
 - 🔭 *Open to work, remote or office work.* Открыт для удаленной или офисной работы.
-- 📫 *How to reach me.* Как со мной связаться : e-mail: amiranify@mail.ru Telegram: https://t.me/amiranify
+- 📫 *How to reach me.* Как со мной связаться : [Telegram](https://t.me/amiranify)
 # *Ключевые компетенции:*
 <h4> Stack: Java, Intellij IDEA, Maven / Gradle, SOLID,
  Java Core, SQL, CSS, HTML, GitHub, 
