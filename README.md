@@ -84,4 +84,7 @@ Here are some ideas to get you started:
 
 # *О себе*:
 Люблю Java, увлечен разработкой, изучаю spring framework.
-
+# *Контакты:*
+- Tel.: +79965095319
+- Telegram: https://t.me/amiranify
+- e-mail: amiranify@mail.ru; amiransumilin777@gmail.com
