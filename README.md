@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 - 📫 *How to reach me.* Как со мной связаться : [Telegram](https://t.me/amiranify)
 # *Ключевые компетенции:*
 <h4> Stack: Java, Intellij IDEA, Maven / Gradle, SOLID,
- Java Core, SQL, CSS, HTML, GitHub, 
- Jira, Postman, Spring  </h4>
+ Java Core, JUnit, SQL, CSS, HTML, GitHub, 
+ Jira, Postman, Spring Framework  </h4>
 
 
 # *Проекты:*
