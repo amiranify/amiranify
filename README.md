@@ -91,16 +91,34 @@ Here are some ideas to get you started:
 <table>
   <tr>
    <td><img src="https://user-images.githubusercontent.com/110248739/221429910-85864784-7da5-465f-ba09-050a88222ff9.jpg"></td>
-   </td>
-   <tr>
    <td><img src="https://user-images.githubusercontent.com/110248739/221430282-ad28e715-78cb-4414-85f1-91f0e38b8c3e.jpg"></td>
    </td>
+   <tr>
+   <td><img src="https://user-images.githubusercontent.com/110248739/223161579-d8892949-2a07-48b3-a77d-80528d2f86d2.jpg"></td>
+   <td><img src="https://user-images.githubusercontent.com/110248739/223161579-d8892949-2a07-48b3-a77d-80528d2f86d2.jpg"></td>
+   </td>  
+   <tr>
+   <td><img src="https://github.com/amiranify/amiranify/assets/110248739/da4565ed-6fce-408b-9ce3-b781e77c583e.jpg"></td>
+  </td>  
 </table>
+
+<!--
+**mySkillsKit/mySkillsKit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 ## *Виртуальные стажировки*
 [«Проект по загрузке и обработке справочника городов России»](https://github.com/amiranify/SberbankInternship)
-
-![_023109_page-0001](https://user-images.githubusercontent.com/110248739/223161579-d8892949-2a07-48b3-a77d-80528d2f86d2.jpg)
 
 # *О себе*:
 Люблю Java, увлечен разработкой, изучаю Spring Framework.
