@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 # *Ключевые компетенции:*
 <h4> Stack: Java, Intellij IDEA, Maven / Gradle, SOLID,
  Java Core, JUnit, SQL, CSS, HTML, GitHub, 
- Jira, Postman, Spring Framework  </h4>
+ Jira, Spring Framework, PostgreSQL, Hibernate  </h4>
 
 
 # *Проекты:*
