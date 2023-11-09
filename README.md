@@ -78,6 +78,7 @@ Here are some ideas to get you started:
 - [Основы Spring»](https://github.com/amiranify/SpringBasics)
 - [CRUD-приложение»](https://github.com/amiranify/spring-boot-crud)
 - [Проект приложения для цифрового учета книг](https://github.com/amiranify/SpringCrudProject1)
+- [Приложение для цифрового учета книг 2](https://github.com/amiranify/springCourseProject2)
 
 ## Мои курсовые проекты 
 - [«Конвертер в текстовую графику»](https://github.com/amiranify/java-diplom-converter)
