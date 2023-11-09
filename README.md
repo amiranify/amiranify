@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 <h3 align="center"> Мои сертификаты ⚡ </h3>
 <table>
   <tr>
-   <td><img src="https://user-images.githubusercontent.com/110248739/221429910-85864784-7da5-465f-ba09-050a88222ff9.jpg"></td>
+   <td><img src="https://github.com/amiranify/amiranify/blob/main/221429910-85864784-7da5-465f-ba09-050a88222ff9.jpg"></td>
    <td><img src="https://user-images.githubusercontent.com/110248739/223161579-d8892949-2a07-48b3-a77d-80528d2f86d2.jpg"></td>
    </td>
    <tr>
