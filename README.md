@@ -102,6 +102,11 @@ Here are some ideas to get you started:
    <td><img src="https://user-images.githubusercontent.com/110248739/221430282-ad28e715-78cb-4414-85f1-91f0e38b8c3e.jpg"></td>
    <td><img src="https://github.com/amiranify/amiranify/blob/main/certificate_page-0001.jpg"></td>
  </td>
+ <tr>
+   <td><img src="https://github.com/amiranify/amiranify/blob/main/certificate_page-0001.jpg"></td>
+  
+ </td>
+ 
 </table>
 
 <!--
