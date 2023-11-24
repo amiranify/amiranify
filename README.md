@@ -103,7 +103,7 @@ Here are some ideas to get you started:
    <td><img src="https://github.com/amiranify/amiranify/blob/main/certificate_page-0001.jpg"></td>
  </td>
  <tr>
-   <td><img src="https://github.com/amiranify/amiranify/blob/main/certificate_page-0001.jpg"></td>
+   <td><img src="https://github.com/amiranify/amiranify/blob/main/certificate%20(1)_page-0001.jpg"></td>
   
  </td>
  
