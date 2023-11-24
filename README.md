@@ -96,7 +96,7 @@ Here are some ideas to get you started:
    </td>
    <tr>
    <td><img src="https://user-images.githubusercontent.com/110248739/223161579-d8892949-2a07-48b3-a77d-80528d2f86d2.jpg"></td>
-   <td><img src="https://github.com/amiranify/amiranify/blob/main/certificate%20(1)_page-0001.jpg"></td>
+   <td><img src="https://github.com/amiranify/amiranify/blob/main/certificate_page-0001.jpg"></td>
    </td> 
  <tr>
    <td><img src="https://user-images.githubusercontent.com/110248739/221430282-ad28e715-78cb-4414-85f1-91f0e38b8c3e.jpg"></td>
